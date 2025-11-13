@@ -33,7 +33,7 @@ export default function PitchDeckPage() {
               <Sparkles className="h-4 w-4 text-blue-500" />
               <span className="font-medium">DiVA Cohort 5 Application</span>
             </div>
-            <h1 className="mb-6 text-balance text-5xl font-bold tracking-tight md:text-7xl">BrainBolt Pitch Deck</h1>
+            <h1 className="mb-6 text-balance text-5xl font-bold tracking-tight md:text-7xl">MindBolt Pitch Deck</h1>
             <p className="mx-auto mb-8 max-w-2xl text-balance text-xl text-muted-foreground md:text-2xl">
               Democratizing Education Through AI-Powered Personalized Learning
             </p>
@@ -67,7 +67,7 @@ export default function PitchDeckPage() {
               </div>
               <div>
                 <p className="text-pretty text-lg leading-relaxed md:text-xl">
-                  BrainBolt is revolutionizing education by making world-class, personalized learning accessible to
+                  MindBolt is revolutionizing education by making world-class, personalized learning accessible to
                   everyone at a fraction of traditional costs. We leverage AI to create custom curricula tailored to
                   each student's goals, learning style, and pace—offering courses and specializations that traditional
                   universities can't or won't provide. Our mission is to democratize education, empowering individuals
@@ -94,8 +94,8 @@ export default function PitchDeckPage() {
               </div>
               <h3 className="mb-3 text-xl font-bold">Unaffordable Education</h3>
               <p className="text-muted-foreground leading-relaxed">
-                The average cost of a 4-year degree in the US is <strong>$120,000+</strong>, leaving students with
-                crippling debt. Many can't afford quality education.
+                The average cost of a 4-year degree in Malaysian private universities is <strong>RM 80,000 - RM 200,000+</strong>, 
+                leaving students with crippling debt.
               </p>
             </Card>
             <Card className="border-2 p-6">
@@ -132,7 +132,7 @@ export default function PitchDeckPage() {
           <div className="mb-12">
             <Card className="border-2 bg-gradient-to-br from-green-500/10 to-blue-500/10 p-8">
               <p className="text-center text-lg leading-relaxed md:text-xl">
-                BrainBolt is an AI-powered learning platform that creates <strong>fully customized syllabi</strong>{" "}
+                MindBolt is an AI-powered learning platform that creates <strong>fully customized syllabi</strong>{" "}
                 based on each student's requirements, career goals, and learning preferences. We offer unlimited access
                 to specialized courses, AI tutors, clinic sessions, and comprehensive learning materials—all for an
                 affordable monthly subscription starting at just <strong>$29/month</strong>.
@@ -236,7 +236,7 @@ export default function PitchDeckPage() {
             <h2 className="mb-4 text-4xl font-bold tracking-tight">Solution Demonstration</h2>
             <div className="mx-auto h-1 w-20 rounded-full bg-blue-500" />
             <p className="mx-auto mt-4 max-w-2xl text-lg text-muted-foreground">
-              See how BrainBolt transforms traditional learning into a personalized, AI-powered experience
+              See how MindBolt transforms traditional learning into a personalized, AI-powered experience
             </p>
           </div>
 
@@ -669,7 +669,7 @@ export default function PitchDeckPage() {
                 <span className="text-lg font-semibold text-green-500">Working Prototype Ready</span>
               </div>
               <p className="mx-auto max-w-3xl text-lg text-muted-foreground leading-relaxed">
-                BrainBolt has a fully functional MVP with core features implemented and tested. Our platform is
+                MindBolt has a fully functional MVP with core features implemented and tested. Our platform is
                 currently in beta testing with early users providing valuable feedback for continuous improvement.
               </p>
             </div>
@@ -757,7 +757,7 @@ export default function PitchDeckPage() {
                 <div>
                   <h3 className="mb-3 text-2xl font-bold">Why Sarawak?</h3>
                   <p className="text-pretty text-lg leading-relaxed">
-                    Sarawak presents a unique opportunity for BrainBolt to establish a strong foothold in Southeast
+                    Sarawak presents a unique opportunity for MindBolt to establish a strong foothold in Southeast
                     Asia. With growing digital infrastructure, government support for tech innovation, and an increasing
                     demand for affordable quality education, Sarawak is the ideal launchpad for our regional expansion
                     strategy.
@@ -815,11 +815,11 @@ export default function PitchDeckPage() {
                   <Calendar className="h-6 w-6" />
                 </div>
                 <div className="flex-1">
-                  <h3 className="mb-2 text-xl font-bold">Q4 2025 - Platform Enhancement</h3>
+                  <h3 className="mb-2 text-xl font-bold">Q1 2026 - Platform Enhancement</h3>
                   <ul className="space-y-2">
                     <li className="flex items-start gap-2">
                       <ArrowRight className="mt-1 h-4 w-4 flex-shrink-0 text-blue-500" />
-                      <span>Launch mobile apps (iOS & Android)</span>
+                      <span>Launch responsive web app optimized for mobile interactions</span>
                     </li>
                     <li className="flex items-start gap-2">
                       <ArrowRight className="mt-1 h-4 w-4 flex-shrink-0 text-blue-500" />
@@ -839,7 +839,7 @@ export default function PitchDeckPage() {
                   <Calendar className="h-6 w-6 text-purple-500" />
                 </div>
                 <div className="flex-1">
-                  <h3 className="mb-2 text-xl font-bold">Q1 2026 - Market Expansion</h3>
+                  <h3 className="mb-2 text-xl font-bold">Q2 2026 - Market Expansion</h3>
                   <ul className="space-y-2">
                     <li className="flex items-start gap-2">
                       <ArrowRight className="mt-1 h-4 w-4 flex-shrink-0 text-purple-500" />
@@ -863,7 +863,7 @@ export default function PitchDeckPage() {
                   <Calendar className="h-6 w-6 text-green-500" />
                 </div>
                 <div className="flex-1">
-                  <h3 className="mb-2 text-xl font-bold">Q2 2026 - Advanced Features</h3>
+                  <h3 className="mb-2 text-xl font-bold">Q3 2026 - Advanced Features</h3>
                   <ul className="space-y-2">
                     <li className="flex items-start gap-2">
                       <ArrowRight className="mt-1 h-4 w-4 flex-shrink-0 text-green-500" />
@@ -887,7 +887,7 @@ export default function PitchDeckPage() {
                   <Calendar className="h-6 w-6 text-orange-500" />
                 </div>
                 <div className="flex-1">
-                  <h3 className="mb-2 text-xl font-bold">Q3-Q4 2026 - Scale & Growth</h3>
+                  <h3 className="mb-2 text-xl font-bold">Q4 2026 - Q1 2027 - Scale & Growth</h3>
                   <ul className="space-y-2">
                     <li className="flex items-start gap-2">
                       <ArrowRight className="mt-1 h-4 w-4 flex-shrink-0 text-orange-500" />
@@ -916,52 +916,26 @@ export default function PitchDeckPage() {
             <h2 className="mb-4 text-4xl font-bold tracking-tight">Our Team</h2>
             <div className="mx-auto h-1 w-20 rounded-full bg-blue-500" />
           </div>
-          <div className="mb-8 grid gap-6 md:grid-cols-3">
-            <Card className="border-2 p-6 text-center">
+          <div className="mb-8 grid gap-8 md:grid-cols-2">
+            <Card className="border-2 p-8 text-center">
               <div className="mb-4 flex justify-center">
                 <div className="flex h-24 w-24 items-center justify-center rounded-full bg-gradient-to-br from-blue-500 to-purple-500 text-3xl font-bold text-white">
-                  JD
+                  JT
                 </div>
               </div>
-              <h3 className="mb-1 text-xl font-bold">John Doe</h3>
-              <div className="mb-3 text-sm text-blue-500">CEO & Co-Founder</div>
-              <p className="text-sm text-muted-foreground leading-relaxed">
-                Former Head of Product at EdTech unicorn. Stanford MBA. 10+ years in education technology.
-              </p>
+              <h3 className="mb-1 text-xl font-bold">Jason Tan</h3>
+              <div className="mb-3 text-sm text-blue-500">Co-Founder</div>
             </Card>
-            <Card className="border-2 p-6 text-center">
+            <Card className="border-2 p-8 text-center">
               <div className="mb-4 flex justify-center">
                 <div className="flex h-24 w-24 items-center justify-center rounded-full bg-gradient-to-br from-purple-500 to-pink-500 text-3xl font-bold text-white">
-                  JS
+                  TT
                 </div>
               </div>
-              <h3 className="mb-1 text-xl font-bold">Jane Smith</h3>
-              <div className="mb-3 text-sm text-purple-500">CTO & Co-Founder</div>
-              <p className="text-sm text-muted-foreground leading-relaxed">
-                Ex-Google AI Research. MIT Computer Science PhD. Expert in ML and personalized learning systems.
-              </p>
-            </Card>
-            <Card className="border-2 p-6 text-center">
-              <div className="mb-4 flex justify-center">
-                <div className="flex h-24 w-24 items-center justify-center rounded-full bg-gradient-to-br from-green-500 to-teal-500 text-3xl font-bold text-white">
-                  MJ
-                </div>
-              </div>
-              <h3 className="mb-1 text-xl font-bold">Mike Johnson</h3>
-              <div className="mb-3 text-sm text-green-500">Head of Growth</div>
-              <p className="text-sm text-muted-foreground leading-relaxed">
-                Scaled 2 startups to $10M ARR. Harvard Business School. Data-driven growth marketing expert.
-              </p>
+              <h3 className="mb-1 text-xl font-bold">Teo Yuang Teck</h3>
+              <div className="mb-3 text-sm text-purple-500">Co-Founder</div>
             </Card>
           </div>
-          <Card className="border-2 bg-muted/30 p-6">
-            <h3 className="mb-4 text-center text-xl font-bold">Advisors & Supporters</h3>
-            <div className="flex flex-wrap justify-center gap-4">
-              <div className="rounded-lg bg-background px-4 py-2 text-sm">Prof. Sarah Williams - MIT Education</div>
-              <div className="rounded-lg bg-background px-4 py-2 text-sm">David Chen - EdTech Consultant</div>
-              <div className="rounded-lg bg-background px-4 py-2 text-sm">Dr. Lisa Park - AI Research</div>
-            </div>
-          </Card>
         </div>
       </section>
 
@@ -1087,7 +1061,7 @@ export default function PitchDeckPage() {
             </Button>
             <Button size="lg" variant="outline" className="gap-2 bg-transparent">
               <Zap className="h-5 w-5" />
-              Try BrainBolt Platform
+              Try MindBolt Platform
             </Button>
           </div>
         </div>

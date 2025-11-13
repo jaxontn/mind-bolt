@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is **BrainBolt** - an AI-powered learning platform built with Next.js 16, React 19, and Tailwind CSS. The application features a modern dark-themed UI with custom learning paths, AI-curated courses, and comprehensive educational materials. It includes marketing pages (landing, lifetime deal, pitch deck) and uses shadcn/ui components.
+This is **MindBolt** - an AI-powered learning platform built with Next.js 16, React 19, and Tailwind CSS. The application features a modern dark-themed UI with custom learning paths, AI-curated courses, and comprehensive educational materials. It includes marketing pages (landing, lifetime deal, pitch deck) and uses shadcn/ui components.
 
 ## Development Commands
 

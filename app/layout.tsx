@@ -7,7 +7,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "BrainBolt - AI-Powered Learning Platform",
+  title: "MindBolt - AI-Powered Learning Platform",
   description:
     "Create custom learning paths tailored to your goals. Master unconventional skills with AI-curated courses, lectures, and comprehensive materials.",
   generator: "v0.app",

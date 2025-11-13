@@ -1,4 +1,4 @@
-# How to Run BrainBolt
+# How to Run MindBolt
 
 ## Quick Start
 

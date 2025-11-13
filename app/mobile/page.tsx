@@ -54,7 +54,7 @@ import {
 const MOCK_DATA = {
   user: {
     name: "Alex Rivera",
-    email: "alex.rivera@brainbolt.ai",
+    email: "alex.rivera@mindbolt.ai",
     avatar: "AR",
     currentSemester: "Semester 2, 2025",
     subscription: "Pro Plan",
@@ -244,7 +244,7 @@ export default function MobileAppPage() {
               <Zap className="w-10 h-10 text-accent" />
             </div>
             <div>
-              <CardTitle className="text-3xl font-bold">BrainBolt</CardTitle>
+              <CardTitle className="text-3xl font-bold">MindBolt</CardTitle>
               <CardDescription className="text-base mt-2">Your AI-Powered Learning Platform</CardDescription>
             </div>
           </CardHeader>
@@ -650,7 +650,7 @@ function CourseDetail({ course, onBack }: { course: any; onBack: () => void }) {
           { title: "Neural Networks Primer.pdf", type: "pdf" },
           { title: "Python Setup Guide", type: "link" },
         ],
-        books: [{ title: "Deep Learning by Goodfellow", chapter: "Chapter 6", link: "library.brainbolt.ai" }],
+        books: [{ title: "Deep Learning by Goodfellow", chapter: "Chapter 6", link: "library.mindbolt.ai" }],
       },
     },
     {
@@ -698,7 +698,7 @@ function CourseDetail({ course, onBack }: { course: any; onBack: () => void }) {
           { title: "CNN Visualization Guide.pdf", type: "pdf" },
           { title: "ImageNet Dataset Access", type: "dataset" },
         ],
-        books: [{ title: "Deep Learning for Computer Vision", chapter: "Chapters 3-4", link: "library.brainbolt.ai" }],
+        books: [{ title: "Deep Learning for Computer Vision", chapter: "Chapters 3-4", link: "library.mindbolt.ai" }],
       },
     },
     {
@@ -718,7 +718,7 @@ function CourseDetail({ course, onBack }: { course: any; onBack: () => void }) {
           { title: "RNN & LSTM Guide.pdf", type: "pdf" },
           { title: "Text Preprocessing Toolkit", type: "tool" },
         ],
-        books: [{ title: "Sequence Models", chapter: "Chapter 5", link: "library.brainbolt.ai" }],
+        books: [{ title: "Sequence Models", chapter: "Chapter 5", link: "library.mindbolt.ai" }],
       },
     },
     {
@@ -737,7 +737,7 @@ function CourseDetail({ course, onBack }: { course: any; onBack: () => void }) {
           { title: "Attention is All You Need (Paper)", type: "pdf" },
           { title: "Transformer Visualization", type: "tool" },
         ],
-        books: [{ title: "Modern NLP with Transformers", chapter: "Chapters 2-3", link: "library.brainbolt.ai" }],
+        books: [{ title: "Modern NLP with Transformers", chapter: "Chapters 2-3", link: "library.mindbolt.ai" }],
       },
     },
   ]
@@ -1592,8 +1592,8 @@ function Profile() {
         </Button>
 
         <div className="text-center pt-4">
-          <p className="text-xs text-muted-foreground">BrainBolt v1.0.0</p>
-          <p className="text-xs text-muted-foreground mt-1">© 2025 BrainBolt. All rights reserved.</p>
+          <p className="text-xs text-muted-foreground">MindBolt v1.0.0</p>
+          <p className="text-xs text-muted-foreground mt-1">© 2025 MindBolt. All rights reserved.</p>
         </div>
       </div>
     </div>

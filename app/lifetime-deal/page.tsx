@@ -48,7 +48,7 @@ export default function LifetimeDealPage() {
             <h1 className="mb-6 text-balance text-center text-4xl font-bold leading-tight tracking-tight sm:text-5xl lg:text-6xl">
               Get Lifetime Access to{" "}
               <span className="bg-gradient-to-r from-blue-500 to-cyan-500 bg-clip-text text-transparent">
-                BrainBolt
+                MindBolt
               </span>{" "}
               for a One-Time Payment
             </h1>
@@ -192,7 +192,7 @@ export default function LifetimeDealPage() {
                 <Sparkles className="mr-1 h-3 w-3" />
                 The Solution
               </Badge>
-              <h2 className="mb-4 text-3xl font-bold sm:text-4xl">BrainBolt Changes Everything</h2>
+              <h2 className="mb-4 text-3xl font-bold sm:text-4xl">MindBolt Changes Everything</h2>
               <p className="mx-auto max-w-2xl text-lg text-muted-foreground">
                 World-class AI-powered education, personalized to your goals, available 24/7, for a fraction of the
                 cost.
@@ -394,7 +394,7 @@ export default function LifetimeDealPage() {
           <div className="mx-auto max-w-5xl">
             <div className="mb-12 text-center">
               <h2 className="mb-4 text-3xl font-bold sm:text-4xl">
-                Join 10,000+ Students Already Learning with BrainBolt
+                Join 10,000+ Students Already Learning with MindBolt
               </h2>
             </div>
 
@@ -408,7 +408,7 @@ export default function LifetimeDealPage() {
                   <Star className="h-5 w-5 fill-primary text-primary" />
                 </div>
                 <p className="mb-4 text-muted-foreground">
-                  "I saved $80,000 by skipping college and learning with BrainBolt. The AI tutors are better than any
+                  "I saved $80,000 by skipping college and learning with MindBolt. The AI tutors are better than any
                   professor I've had, and I learned blockchain development—something no university near me offers."
                 </p>
                 <div>
@@ -460,7 +460,7 @@ export default function LifetimeDealPage() {
         <section className="border-b px-4 py-16 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-5xl">
             <div className="mb-12 text-center">
-              <h2 className="mb-4 text-3xl font-bold sm:text-4xl">BrainBolt vs. Traditional University</h2>
+              <h2 className="mb-4 text-3xl font-bold sm:text-4xl">MindBolt vs. Traditional University</h2>
             </div>
 
             <div className="overflow-hidden rounded-lg border">
@@ -469,7 +469,7 @@ export default function LifetimeDealPage() {
                   <tr>
                     <th className="p-4 text-left font-semibold">Feature</th>
                     <th className="p-4 text-center font-semibold">Traditional University</th>
-                    <th className="p-4 text-center font-semibold text-primary">BrainBolt</th>
+                    <th className="p-4 text-center font-semibold text-primary">MindBolt</th>
                   </tr>
                 </thead>
                 <tbody className="divide-y">
@@ -541,7 +541,7 @@ export default function LifetimeDealPage() {
                 <h3 className="mb-2 text-lg font-bold">What exactly does "lifetime access" mean?</h3>
                 <p className="text-muted-foreground">
                   Pay once, access forever. No monthly fees, no renewals, no hidden costs. You'll have unlimited access
-                  to all current and future features for as long as BrainBolt exists.
+                  to all current and future features for as long as MindBolt exists.
                 </p>
               </Card>
 

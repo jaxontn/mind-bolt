@@ -38,7 +38,7 @@ export function HeroSection() {
         <div className="pt-4">
           <p className="text-sm text-muted-foreground">
             <span className="line-through">$50,000/year</span> for traditional university →{" "}
-            <span className="text-accent font-semibold">$348/year</span> with BrainBolt
+            <span className="text-accent font-semibold">$348/year</span> with MindBolt
           </p>
         </div>
 
@@ -47,7 +47,7 @@ export function HeroSection() {
             <div className="aspect-video rounded-lg bg-secondary/50 flex items-center justify-center">
               <img
                 src="/ai-learning-platform-dashboard-with-courses-and-pr.jpg"
-                alt="BrainBolt Platform Dashboard"
+                alt="MindBolt Platform Dashboard"
                 className="rounded-lg w-full h-full object-cover"
               />
             </div>

@@ -8,7 +8,7 @@ export function Footer() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <Zap className="h-6 w-6 text-accent" />
-              <span className="text-lg font-bold">BrainBolt</span>
+              <span className="text-lg font-bold">MindBolt</span>
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed">
               Revolutionizing education with AI-powered personalized learning paths.
@@ -106,7 +106,7 @@ export function Footer() {
         </div>
 
         <div className="mt-12 pt-8 border-t border-border text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} BrainBolt. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} MindBolt. All rights reserved.</p>
         </div>
       </div>
     </footer>

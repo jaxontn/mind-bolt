@@ -30,11 +30,11 @@ const stats = [
 export function StatsSection() {
   return (
     <section className="border-y border-border bg-card/30">
-      <div className="container px-4 py-16 md:px-6">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+      <div className="container mx-auto max-w-7xl px-4 py-16 md:px-6">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
           {stats.map((stat, index) => (
-            <div key={index} className="flex flex-col space-y-2">
-              <div className="flex items-center gap-3">
+            <div key={index} className="flex flex-col items-center text-center space-y-2">
+              <div className="flex items-center justify-center gap-3">
                 <stat.icon className="h-5 w-5 text-accent" />
                 <span className="text-3xl md:text-4xl font-bold">{stat.value}</span>
               </div>

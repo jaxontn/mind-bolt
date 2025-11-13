@@ -40,7 +40,7 @@ export function HowItWorksSection() {
           <div className="text-center space-y-4">
             <h2 className="text-3xl md:text-5xl font-bold text-balance">Start learning in minutes</h2>
             <p className="mx-auto max-w-2xl text-lg text-muted-foreground text-pretty">
-              Getting started with BrainBolt is simple. Our AI handles the complexity so you can focus on what
+              Getting started with MindBolt is simple. Our AI handles the complexity so you can focus on what
               matters—learning.
             </p>
           </div>

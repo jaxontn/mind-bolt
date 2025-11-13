@@ -47,7 +47,7 @@ export function FeaturesSection() {
         <div className="text-center space-y-4">
           <h2 className="text-3xl md:text-5xl font-bold text-balance">Education reimagined for the modern learner</h2>
           <p className="mx-auto max-w-2xl text-lg text-muted-foreground text-pretty">
-            BrainBolt combines cutting-edge AI with proven educational methods to deliver personalized learning
+            MindBolt combines cutting-edge AI with proven educational methods to deliver personalized learning
             experiences that actually work.
           </p>
         </div>
