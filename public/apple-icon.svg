@@ -1,0 +1,7 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with rounded corners for Apple style -->
+  <rect width="180" height="180" rx="40" fill="#1f2937"/>
+
+  <!-- MB Text -->
+  <text x="90" y="115" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="72" font-weight="800" text-anchor="middle" fill="white">MB</text>
+</svg>
