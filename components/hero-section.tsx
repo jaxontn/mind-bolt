@@ -44,10 +44,13 @@ export function HeroSection() {
 
         <div className="pt-8">
           <div className="relative mx-auto max-w-4xl rounded-xl border border-border bg-card/50 p-2 backdrop-blur">
-            <div className="aspect-video rounded-lg bg-secondary/50 flex items-center justify-center">
-              <img
-                src="/ai-learning-platform-dashboard-with-courses-and-pr.jpg"
-                alt="MindBolt Platform Dashboard"
+            <div className="aspect-video rounded-lg bg-secondary/50 flex items-center justify-center overflow-hidden">
+              <video
+                src="/demo/1114.mp4"
+                autoPlay
+                loop
+                muted
+                playsInline
                 className="rounded-lg w-full h-full object-cover"
               />
             </div>
